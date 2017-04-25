@@ -1,0 +1,30 @@
+<class>
+    <student>
+
+    <subject name= "math">
+    <grades>85
+    </grades>
+    </subject>
+
+    <subject name= "english">
+    <grades>100
+    </grades>
+    </subject>
+
+    <subject name= "biology">
+    <grades>90
+    </grades>
+    </subject>
+
+    <subject name="software">
+    <grades>95
+    </grades>
+    </subject>
+
+    <subject name= "arabic">
+    <grades>80
+    </grades>
+    </subject>
+</student>
+
+</class>
